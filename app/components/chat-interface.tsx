@@ -166,6 +166,9 @@ export function ChatInterface({ apiKey }: ChatInterfaceProps) {
         <p className="text-sm text-gray-700 text-muted-foreground">
             Your message will be sent to the ChatGPT Completions API.
         </p>
+        <p className="text-sm text-gray-700 text-muted-foreground">
+            Source code on <a href="https://github.com/AndreMorise/nextjs-flask-agent-demo" className="underline">GitHub</a>
+        </p>
       </div>
     </div>
   );

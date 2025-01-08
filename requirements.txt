@@ -1,1 +1,6 @@
-Flask==3.0.3
+Flask==3.1.0
+Flask-Cors==5.0.0
+Flask-RESTful==0.3.10
+langchain==0.3.13
+langchain-core==0.3.28
+langchain-openai==0.2.14
